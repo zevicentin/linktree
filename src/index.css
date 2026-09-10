@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, serif;
+    background-color: #07150E;
+    color: #E5E5E5;
+  }
+}
+
+/* Elegant Dark Green scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #07150E;
+}
+::-webkit-scrollbar-thumb {
+  background: #142E20;
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #C19A6B;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Dona Flor Cigars - Links Oficiais",
+  "description": "Página oficial de links e redes sociais da Dona Flor Cigars e Menendez Amerino. Charutos premium feitos à mão na Bahia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
